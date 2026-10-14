@@ -4,4 +4,4 @@
 <p>1. <a href="https://www.youtube.com/watch?v=sjH1hF1thqE">Linux Full administrator course</a></p>
 <p>2. <a href="https://youtu.be/wY5pQOTsGaA?si=BMNGnPZP3RmlArwi">How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners</a></p>
 <p>In future, it will be seen that if anything is more is required or not.</p>
-<p># This is marker. Video No. 1. Time completed 01:00:46 out of 08:10:45</p>
+<p># This is marker. Video No. 1. Time completed 01:12:47 out of 08:10:45</p>
